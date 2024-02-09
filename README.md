@@ -32,6 +32,11 @@ To play the Dicee Game:
 3. The game will display the outcome of each player's roll and declare the winner.
 
 Enjoy playing and have fun! 🎉
+## Screenshots 
+![Screenshot from 2024-02-09 19-27-28](https://github.com/AsadShayan/Dice-Game-Multiplayer/assets/153836414/c103ddc0-fe7e-48c0-93d2-9da2192de4a6)
+![Screenshot from 2024-02-09 19-27-35](https://github.com/AsadShayan/Dice-Game-Multiplayer/assets/153836414/2fbbc0b0-3acc-474b-8548-9f04113ab514)
+![Screenshot from 2024-02-09 19-27-43](https://github.com/AsadShayan/Dice-Game-Multiplayer/assets/153836414/78f2de79-36e0-448a-8c82-214620ef58bd)
+
 
 ## Installation ⚙️
 
